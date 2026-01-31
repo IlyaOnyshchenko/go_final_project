@@ -1,6 +1,6 @@
 name: go_final_project pipeline
 
-on: [push]
+on: push
 
 jobs:
   build:
